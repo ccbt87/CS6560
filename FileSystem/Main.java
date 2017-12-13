@@ -1,12 +1,3 @@
-/**
- * CS 6560
- * Project #1
- * Name: Hongjie Zhu
- * NetID: hf6233
- * OS: Windows 10
- * IDE: Eclipse Luna
- */
-
 import java.io.IOException;
 import java.util.Scanner; 
 
