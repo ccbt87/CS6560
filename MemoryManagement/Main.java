@@ -1,13 +1,3 @@
-/**
- * CS 6560
- * Project #2
- * Date: 12042017
- * Name: Hongjie Zhu
- * NetID: hf6233
- * OS: Windows 10
- * IDE: Eclipse Luna
- */
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Iterator;
